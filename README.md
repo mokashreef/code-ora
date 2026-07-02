@@ -1,4 +1,4 @@
-<!-- Logo -->
+<!-- Loago --> 
 <p align="center">
   <a href="#">
     <picture>
