@@ -1,14 +1,3 @@
-<!-- Loago --> 
-<p align="center">
-  <a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="screenshots/logo.png">
-      <source media="(prefers-color-scheme: light)" srcset="screenshots/logo.png">
-      <img alt="Code Ora Logo" src="screenshots/logo.png" width="180">
-    </picture>
-  </a>
-</p>
-
 <h1 align="center">「 كـود أورا — Code Ora 」</h1>
 
 <h3 align="center">🌐 المنصة التقنية العربية الأولى للمبرمجين والمطورين</h3>
@@ -44,7 +33,7 @@
 ## 📋 Table of Contents
 
 <p align="center">
-  <a href="#-features">✨ Features</a> · <a href="#-screenshots">📸 Screenshots</a> · <a href="#%EF%B8%8F-tech-stack">🛠️ Tech Stack</a> · <a href="#-target-audience">🎯 Target Audience</a> · <a href="#-contact">📬 Contact</a>
+  <a href="#-features">✨ Features</a> · <a href="#%EF%B8%8F-tech-stack">🛠️ Tech Stack</a> · <a href="#-target-audience">🎯 Target Audience</a> · <a href="#-contact">📬 Contact</a>
 </p>
 
 <br/>
@@ -77,50 +66,6 @@
 | 🐛 | **تصحيح الأخطاء (Debugging)** — حلول ذكية ومقترحات لإصلاح الأخطاء |
 | 💭 | **اقتراحات برمجية** — توصيات مخصصة لتحسين الكود وأفضل الممارسات |
 | ⚡ | **واجهة دردشة تفاعلية** — تجربة سلسة ومتجاوبة بالكامل (Responsive) |
-
-<br/>
-
-## 📸 Screenshots
-
-> 💡 *لقطات الشاشة توضح الواجهات الرئيسية للمنصة*
-
----
-
-### 🏠 الصفحة الرئيسية — Home Page
-
-![Home Page](screenshots/home.png)
-
----
-
-### 📚 صفحة الدورات — Courses Page
-
-![Courses Page](screenshots/courses.png)
-
----
-
-### 💬 المجتمع التفاعلي — Community Feed
-
-![Community Page](screenshots/community.png)
-
----
-
-### 🤖 المساعد الذكي — AI Assistant
-
-![AI Assistant](screenshots/ai-assistant.png)
-
----
-
-### 👤 الملف الشخصي — User Profile
-
-![Profile Page](screenshots/profile.png)
-
----
-
-### ⚙️ لوحة الإدارة — Admin Dashboard
-
-![Admin Dashboard](screenshots/admin.png)
-
----
 
 <br/>
 
@@ -177,9 +122,9 @@
 <p align="center">
   <a href="https://github.com/syrmoha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mo.abukashreef@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-abu-kashreef/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">💬 <em>لا تتردد في التواصل معي لأي استفسارات أو فرص تعاون.</em></p>
@@ -188,9 +133,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer" width="100%"/>
-</p>
+<br/>
 
 <p align="center"><strong>Built With ❤️ by <a href="https://github.com/syrmoha">MOHAMMAD ABU KASHREEF</a></strong></p>
 
