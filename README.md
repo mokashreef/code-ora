@@ -1,5 +1,12 @@
+<!-- Logo -->
 <p align="center">
-  <img src="screenshots/logo.png" alt="Code Ora Logo" width="180" />
+  <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="screenshots/logo.png">
+      <source media="(prefers-color-scheme: light)" srcset="screenshots/logo.png">
+      <img alt="Code Ora Logo" src="screenshots/logo.png" width="180">
+    </picture>
+  </a>
 </p>
 
 <h1 align="center">「 كـود أورا — Code Ora 」</h1>
@@ -77,59 +84,47 @@
 
 > 💡 *لقطات الشاشة توضح الواجهات الرئيسية للمنصة*
 
-<br/>
+---
 
-<p align="center"><strong>🏠 الصفحة الرئيسية — Home Page</strong></p>
+### 🏠 الصفحة الرئيسية — Home Page
 
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Page" width="700"/>
-</p>
+![Home Page](screenshots/home.png)
 
-<br/>
+---
 
-<p align="center"><strong>📚 صفحة الدورات — Courses Page</strong></p>
+### 📚 صفحة الدورات — Courses Page
 
-<p align="center">
-  <img src="screenshots/courses.png" alt="Courses Page" width="700"/>
-</p>
+![Courses Page](screenshots/courses.png)
 
-<br/>
+---
 
-<p align="center"><strong>💬 المجتمع التفاعلي — Community Feed</strong></p>
+### 💬 المجتمع التفاعلي — Community Feed
 
-<p align="center">
-  <img src="screenshots/community.png" alt="Community Page" width="700"/>
-</p>
+![Community Page](screenshots/community.png)
 
-<br/>
+---
 
-<p align="center"><strong>🤖 المساعد الذكي — AI Assistant</strong></p>
+### 🤖 المساعد الذكي — AI Assistant
 
-<p align="center">
-  <img src="screenshots/ai-assistant.png" alt="AI Assistant" width="700"/>
-</p>
+![AI Assistant](screenshots/ai-assistant.png)
 
-<br/>
+---
 
-<p align="center"><strong>👤 الملف الشخصي — User Profile</strong></p>
+### 👤 الملف الشخصي — User Profile
 
-<p align="center">
-  <img src="screenshots/profile.png" alt="Profile Page" width="700"/>
-</p>
+![Profile Page](screenshots/profile.png)
 
-<br/>
+---
 
-<p align="center"><strong>⚙️ لوحة الإدارة — Admin Dashboard</strong></p>
+### ⚙️ لوحة الإدارة — Admin Dashboard
 
-<p align="center">
-  <img src="screenshots/admin.png" alt="Admin Dashboard" width="700"/>
-</p>
+![Admin Dashboard](screenshots/admin.png)
+
+---
 
 <br/>
 
 ## 🛠️ Tech Stack
-
-<p align="center">
 
 | الطبقة | التقنيات |
 |:---:|:---|
@@ -138,8 +133,6 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Interaction** | ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white) &nbsp; ![Optimistic UI](https://img.shields.io/badge/Optimistic_UI-00B894?style=for-the-badge&logo=lightning&logoColor=white) |
 | **AI** | ![AI Assistant](https://img.shields.io/badge/AI_Powered-FF6F61?style=for-the-badge&logo=openai&logoColor=white) |
-
-</p>
 
 <br/>
 
