@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo Placeholder — استبدل الرابط بشعار المشروع -->
-<img src="./screenshots/logo.png" alt="Code Ora Logo" width="180" />
+<img src="/screenshots/logo.png" alt="Code Ora Logo" width="180" />
 
 <br/>
 
