@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/logo.png" alt="Code Ora Logo" width="180" />
+  <img src="screenshots/logo.png" alt="Code Ora Logo" width="180" />
 </p>
 
 <h1 align="center">「 كـود أورا — Code Ora 」</h1>
@@ -82,7 +82,7 @@
 <p align="center"><strong>🏠 الصفحة الرئيسية — Home Page</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/home.png" alt="Home Page" width="700"/>
+  <img src="screenshots/home.png" alt="Home Page" width="700"/>
 </p>
 
 <br/>
@@ -90,7 +90,7 @@
 <p align="center"><strong>📚 صفحة الدورات — Courses Page</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/courses.png" alt="Courses Page" width="700"/>
+  <img src="screenshots/courses.png" alt="Courses Page" width="700"/>
 </p>
 
 <br/>
@@ -98,7 +98,7 @@
 <p align="center"><strong>💬 المجتمع التفاعلي — Community Feed</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/community.png" alt="Community Page" width="700"/>
+  <img src="screenshots/community.png" alt="Community Page" width="700"/>
 </p>
 
 <br/>
@@ -106,7 +106,7 @@
 <p align="center"><strong>🤖 المساعد الذكي — AI Assistant</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/ai-assistant.png" alt="AI Assistant" width="700"/>
+  <img src="screenshots/ai-assistant.png" alt="AI Assistant" width="700"/>
 </p>
 
 <br/>
@@ -114,7 +114,7 @@
 <p align="center"><strong>👤 الملف الشخصي — User Profile</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/profile.png" alt="Profile Page" width="700"/>
+  <img src="screenshots/profile.png" alt="Profile Page" width="700"/>
 </p>
 
 <br/>
@@ -122,7 +122,7 @@
 <p align="center"><strong>⚙️ لوحة الإدارة — Admin Dashboard</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syrmoha/code-ora/main/screenshots/admin.png" alt="Admin Dashboard" width="700"/>
+  <img src="screenshots/admin.png" alt="Admin Dashboard" width="700"/>
 </p>
 
 <br/>
