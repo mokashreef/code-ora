@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-قيد_التطوير-FFA500?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/></a>
+  <a href="https://code-ora.com/"><img src="https://img.shields.io/badge/Status-مباشر_Live-00B894?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Platform-Web_Application-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Platform"/></a>
   &nbsp;
@@ -108,10 +108,10 @@
 ## 🌟 Demo
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-غير_متوفر_حالياً-555555?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://code-ora.com/"><img src="https://img.shields.io/badge/🚀_Live_Demo-code--ora.com-00B894?style=for-the-badge" alt="Live Demo"/></a>
 </p>
 
-<p align="center">⚠️ <em>الديمو الحي غير متوفر حالياً — المشروع قيد التطوير النشط.</em></p>
+<p align="center">✅ <em>المشروع مباشر الآن! يمكنك زيارة المنصة وتجربتها من الرابط أعلاه.</em></p>
 
 <br/>
 
