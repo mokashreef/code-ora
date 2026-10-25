@@ -1,0 +1,29 @@
+# Code Ora Showcase Repository Safeguard .gitignore
+# This repository is a public showcase portfolio only.
+# Proprietary source code is strictly kept in private development repositories.
+
+# Exclude all source, data, and config files
+*.php
+*.sql
+*.sqlite*
+*.env*
+*.log
+*.bak
+*.conf
+*.ini
+*.sh
+*.bat
+*.cmd
+
+# Exclude directories
+app/
+cron/
+database/
+public/
+tests/
+vendor/
+node_modules/
+.idea/
+.vscode/
+.git/
+scratch/
